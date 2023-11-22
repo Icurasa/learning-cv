@@ -1,2 +1,2 @@
-# linux-cfg
+# learning-opencv
 basic operation about linux and software

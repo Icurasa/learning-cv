@@ -1,2 +1,2 @@
 # learning-opencv
-learning computer vision
+learning computer vision knowledge
